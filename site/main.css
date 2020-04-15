@@ -51,10 +51,10 @@
   --text-color-strong: var(--bright-white);
   --background-color: var(--black);
 
-  --link-color: var(--magenta);
-  --link-color-hover: var(--bright-magenta);
+  --link-color: var(--cyan);
+  --link-color-hover: var(--bright-cyan);
 
-  --header-color: var(--bright-cyan);
+  --header-color: var(--bright-magenta);
 
   --snippet-color: var(--yellow);
 
@@ -136,11 +136,13 @@ html {
 
 .site {
   padding: 1em 1ch;
+  background: #cb8bb9;
 }
 
 .site .container {
   max-width: var(--page-width);
   margin: 0 auto;
+  background: #0e0e0e;
 }
 
 .center-block {
