@@ -51,10 +51,10 @@
   --text-color-strong: var(--bright-white);
   --background-color: var(--black);
 
-  --link-color: var(--cyan);
-  --link-color-hover: var(--bright-cyan);
+  --link-color: var(--bright-cyan);
+  --link-color-hover: var(--cyan);
 
-  --header-color: var(--bright-magenta);
+  --header-color: var(--bright-white);
 
   --snippet-color: var(--yellow);
 
@@ -131,7 +131,6 @@ html {
 
 :root {
   color: var(--text-color);
-  background: var(--background-color);
 }
 
 .site {
