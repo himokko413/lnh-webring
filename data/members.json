@@ -1,14 +1,20 @@
 [
   {
-    "title": "Lynn Kirby | arrak.is",
-    "url": "https://arrak.is",
-    "frameAncestor": ["arrak.is", "*.arrak.is"],
+    "title": "Butterfly's Secluded Home",
+    "url": "https://butterfly42.neocities.org",
+    "frameAncestor": "butterfly42.neocities.org",
     "feed": null
   },
   {
-    "title": "A.N. Lucas's Web Lounge",
-    "url": "https://anlucas.neocities.org",
-    "frameAncestor": "anlucas.neocities.org",
+    "title": "The Website Of Alexa",
+    "url": "https://alexatraa.neocities.org",
+    "frameAncestor": "alexatraa.neocities.org",
+    "feed": null
+  },
+  {
+    "title": "bbdare's web home",
+    "url": "https://bbsanctuary.neocities.org",
+    "frameAncestor": "bbsanctuary.neocities.org",
     "feed": null
   }
 ]
