@@ -142,6 +142,7 @@ html {
   max-width: var(--page-width);
   margin: 0 auto;
   background: #0e0e0e;
+  padding: 10px;
 }
 
 .center-block {
