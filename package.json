@@ -18,7 +18,7 @@
     "gulp-rename": "^1.4.0",
     "minireset.css": "0.0.5",
     "netlify-lambda": "^1.1.1",
-    "postcss": "^7.0.17",
+    "postcss": "^7.0.36",
     "postcss-custom-media": "^7.0.8",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.6.0",
